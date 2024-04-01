@@ -1,5 +1,5 @@
 ## Full Stack Image-Based Location Sharing Application
-
+This is a full-stack imaged-based location sharing web application using React.js, Express.js, Node.js, and MongoDB. The project includes features such as file upload, user authorization, user authentication, and real-time database functionality.
 
 ## Technologies Used
 * React.js
